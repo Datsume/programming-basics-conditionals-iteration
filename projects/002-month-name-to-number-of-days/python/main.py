@@ -14,5 +14,5 @@ if month in month_31:
     print(month,"= 31 days")
 elif month in month_30:
     print(month, "= 30 days")
-else month:
+else:
     print(month, "= 28 days")
